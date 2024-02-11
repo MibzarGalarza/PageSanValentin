@@ -45,7 +45,7 @@
         display: flex;
         width: 760px;
         margin: 20px;
-        height: 400px;
+        height: 700px;
         padding: 10px;
         border-radius: 10px;
         border: 1px #FFFFFF;
@@ -602,7 +602,7 @@
     }
 
     .container {
-        height: 100px;
+
         /* Altura deseada para el contenedor */
         display: flex;
         align-items: center;
@@ -615,7 +615,7 @@
         /* Color del botón */
         color: white;
         font-size: 20px;
-        padding: 10px 10px;
+        padding: 5px 10px;
         border: none;
         border-radius: 25px;
         cursor: pointer;
