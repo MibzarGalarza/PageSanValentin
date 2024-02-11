@@ -1,0 +1,638 @@
+@media screen and (min-width: 800px) {
+    * {
+        margin: 0px;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        background: #484E59;
+        background-size: cover;
+    }
+
+    .cards {
+        width: 100%;
+        height: 400px;
+        padding: 15px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #5671A6;
+    }
+
+    .img-card {
+        width: 300px;
+        height: auto;
+        padding: 0px 20px 20px 20px;
+        align-items: center;
+        justify-content: center;
+        display: block;
+        margin: auto;
+    }
+
+
+    .dentro-cards {
+        background-color: #F2E9D8;
+        padding: 30px 0px 0px 0px;
+        width: 100%;
+        border: 1px #FFFFFF;
+        height: 60%;
+        border-radius: 10px;
+    }
+
+    .card {
+        display: flex;
+        width: 760px;
+        margin: 20px;
+        height: 400px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #5671A6;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dentro-card {
+        background-color: #F2E9D8;
+        padding: 10px;
+        width: auto;
+        border: 1px #FFFFFF;
+        height: 380px;
+        border-radius: 10px;
+    }
+
+    .two-cards {
+        display: flex;
+    }
+
+    .displays {
+        display: block;
+    }
+
+    .displays-cards {
+        display: inline-block;
+    }
+
+    h1,
+    p {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        justify-content: center;
+        color: #484E59;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+
+
+    h2 {
+        font-family: 'Protest Riot', sans-serif;
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #000000;
+        text-align: center;
+        margin-bottom: 0px;
+        
+    }
+    h5 {
+        font-family: 'Protest Riot', sans-serif;
+        font-weight: 200;
+        display: flex;
+        align-items: center;
+        margin: 0px;
+        justify-content: center;
+        color: #000000;
+        text-align: center;
+        
+    }
+    h3 {
+        font-family: 'Protest Riot', sans-serif;
+        font-weight: 300;
+        display: flex;
+        margin: 0px !important;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color: #000000;
+        
+    }
+
+    h1 {
+        font-family: 'Rancho', cursive;
+    }
+
+    h4 {
+        font-family: 'Rancho', cursive;
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        justify-content: center;
+        color: #000000;
+    }
+
+    body {
+        background-size: auto;
+        background: #F2E9D8;
+    }
+
+    .cards {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #5671A6;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .cards-2 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #BF364F;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-2 {
+        background-color: #E0D7D0;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-3 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #594F43;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-3 {
+        background-color: #BFB093;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-4 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #9F1F36;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-4 {
+        background-color: #D9C7B8;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-5 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #393E40;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-5 {
+        background-color: #BFB3A4;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-6 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #F2C46D;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-6 {
+        background-color: #F2DEC4;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-7 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #225935;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-7 {
+        background-color: #D9D9D9;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-8 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #6F60A6;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-8 {
+        background-color: #E5E3D6;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+
+    .cards-9 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #252526;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-9 {
+        background-color: #D9D9D9;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+
+    .cards-10 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #222625;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-10 {
+        background-color: #D9AB91;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-11 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #0F2F59;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-11 {
+        background-color: #F2D0A7;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-12 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #142620;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-12 {
+        background-color: #D9CAB0;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+
+    .cards-13 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #011640;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-13 {
+        background-color: #8EA3BF;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-14 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #0D0D0D;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-14 {
+        background-color: #BFBFBD;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-15 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #262524;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-15 {
+        background-color: #F4E7DE;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-16 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #0C0D0C;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-16 {
+        background-color: #D9BEA7;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-17 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #3B3C40;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-17 {
+        background-color: #F2E1C2;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .cards-18 {
+        width: 100%;
+        height: 520px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #555259;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .dentro-cards-18{
+        background-color: #F2E3D5;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #BFADA3;
+        height: auto;
+        border-radius: 10px;
+    }
+
+
+
+    .two-cards {
+        display: flex;
+    }
+
+    .img-card {
+        width: 300px;
+        height: auto;
+        align-items: center;
+        justify-content: center;
+        display: block;
+        margin: auto;
+        padding: 0 10px 0 10px;
+    }
+
+    .dentro-cards {
+        background-color: #F2E9D8;
+        padding: 30px 0px 10px 0px;
+        width: 100%;
+        border: 1px #FFFFFF;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .card {
+        display: flex;
+        width: 1150px;
+        margin: 20px;
+        height: 400px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px #FFFFFF;
+        background-color: #5671A6;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dentro-card {
+        background-color: #F2E9D8;
+        padding: 10px;
+        width: 100%;
+        border: 1px #FFFFFF;
+        height: 380px;
+        border-radius: 10px;
+    }
+
+    .button-card {
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    .displays {
+        display: block;
+    }
+
+    .divider {
+        width: 100%;
+        height: 2px;
+        margin-bottom: 2rem;
+        background-color: #ccc;
+        /* Color de la línea */
+    }
+
+    .displays-cards {
+        display: inline-block;
+    }
+
+    .container {
+        height: 100px;
+        /* Altura deseada para el contenedor */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    button {
+        background-color: #e62e6d;
+        width: 200px;
+        /* Color del botón */
+        color: white;
+        font-size: 20px;
+        padding: 10px 10px;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+        background-color: #d2225c;
+        /* Cambio de color al pasar el mouse */
+    }
+
+    h1,
+    p {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #484E59;
+    }
+}
