@@ -101,6 +101,17 @@
         margin-bottom: 0px;
         
     }
+    p{
+        font-family: 'Protest Riot', sans-serif;
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #000000;
+        text-align: center;
+        margin-bottom: 0px;
+        line-height: 1.5;
+    }
     h5 {
         font-family: 'Protest Riot', sans-serif;
         font-weight: 200;
@@ -562,7 +573,7 @@
         display: flex;
         width: 1150px;
         margin: 20px;
-        height: 400px;
+        height: 600px;
         padding: 10px;
         border-radius: 10px;
         border: 1px #FFFFFF;
@@ -576,7 +587,7 @@
         padding: 10px;
         width: 100%;
         border: 1px #FFFFFF;
-        height: 380px;
+        height: 580px;
         border-radius: 10px;
     }
 
