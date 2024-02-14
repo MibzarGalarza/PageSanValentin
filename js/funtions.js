@@ -6,7 +6,7 @@ function mostrarContenido() {
     if (contenido.style.display === "none") {
         var usuario = prompt("Usuario:");
         var contraseña = prompt("Contraseña:");
-        if (usuario === "Andrea&Chichar" && contraseña === "090623") {
+        if (usuario === "A&M" && contraseña === "090723") {
             contenido.style.display = "block";
             contenido2.style.display = "none";
             buttonLeer.textContent = "Back";
